@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, 
+I'm self taught whatever you want to call it. I'm trying to get better at writing code, I think working on a site or app that has something to do with cars would be my dream. Combinging the two worlds that I have the most passion for... or whatever. 
+
+More to come! We'll see how long it takes... 
 
 <!--
 **mmmichael777/mmmichael777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
