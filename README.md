@@ -1,3 +1,9 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://c4.wallpaperflare.com/wallpaper/581/444/24/datsun-classic-jdm-240z-hd-wallpaper-preview.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://c4.wallpaperflare.com/wallpaper/581/444/24/datsun-classic-jdm-240z-hd-wallpaper-preview.jpg">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 ### Hi there, 
 I'm self taught whatever you want to call it. I'm trying to get better at writing code, I think working on a site or app that has something to do with cars would be my dream. Combinging the two worlds that I have the most passion for... or whatever. 
 
